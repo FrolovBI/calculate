@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Frolov_calcul\bin\Debug\Frolov_calcul.exe.config
+C:\Users\Admin\source\repos\Frolov_calcul\bin\Debug\Frolov_calcul.exe
+C:\Users\Admin\source\repos\Frolov_calcul\bin\Debug\Frolov_calcul.pdb
+C:\Users\Admin\source\repos\Frolov_calcul\obj\Debug\Frolov_calcul.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Frolov_calcul\obj\Debug\Frolov_calcul.Form1.resources
+C:\Users\Admin\source\repos\Frolov_calcul\obj\Debug\Frolov_calcul.Properties.Resources.resources
+C:\Users\Admin\source\repos\Frolov_calcul\obj\Debug\Frolov_calcul.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Frolov_calcul\obj\Debug\Frolov_calcul.exe
+C:\Users\Admin\source\repos\Frolov_calcul\obj\Debug\Frolov_calcul.pdb
